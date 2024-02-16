@@ -1,6 +1,9 @@
 # Waffles
 Designed To bypass WAF Security against XSS - SQL - OS Command Injection. With the best payloads.
 
+# Note
+These payloads may not be a global bypass but working on specific endpoints. OR some of These payloads may be fixed by the firewall corporation.But it is continuously updating.
+
 # INSTALL 
 
 git clone https://github.com/BoutadjineAlaa/Waffles.git
